@@ -30,7 +30,7 @@ public class Examen extends JFrame {
 	/** Los paneles donde colocaremos los botones */
 	JPanel panelNumeros, panelOperaciones;
 
-	/** Indica si estamos iniciando o no una operación */
+	/** Indica si estamos iniciando o no una operación uhi*/
 	boolean nuevaOperacion = true;
 
 	/**
